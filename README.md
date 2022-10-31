@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Abhishek Maurya</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchor-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="anchor-abhi" /> </p>
 
-- 🔭 Recently completed project [MERN E-Shop](https://mern-eshop.onrender.com/)
+- 🔭 Recently completed project : [MERN E-Shop](https://mern-eshop.onrender.com/)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning : **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://abhishek-maurya.vercel.app/](https://abhishek-maurya.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@theabhishek1802](https://medium.com/@theabhishek1802)
 
-- 💬 Ask me about **MERN Stack & Javascript**
+- 💬 Ask me about : **MERN Stack & Javascript**
 
-- 📫 How to reach me **theabhishek1802@gmail.com**
+- 📫 How to reach me : **theabhishek1802@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17hzdFuya4mD06ZcUD7XYooFUEZaHCNma/view?usp=share_link](https://drive.google.com/file/d/17hzdFuya4mD06ZcUD7XYooFUEZaHCNma/view?usp=share_link)
 
