@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17hzdFuya4mD06ZcUD7XYooFUEZaHCNma/view?usp=share_link](https://drive.google.com/file/d/17hzdFuya4mD06ZcUD7XYooFUEZaHCNma/view?usp=share_link)
 
-- ⚡ Fun fact **Coffee over sleep**
+- ⚡ Fun fact : **Coffee over sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
